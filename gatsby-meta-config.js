@@ -11,7 +11,7 @@ module.exports = {
   },
   ga: '0', // Google Analytics Tracking ID
   author: {
-    name: `재만`,
+    name: `재만재만`,
     bio: {
       role: `개발자`,
       description: ['고기 먹고싶은', '항상 배고픈', '집 가고 싶은'],
