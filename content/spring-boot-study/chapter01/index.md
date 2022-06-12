@@ -3,7 +3,7 @@ emoji: 1️⃣
 title: 스프링 부트 공부 01
 date: '2022-06-12 12:20:00'
 author: 박재만
-tags: blog gatsby theme 개츠비 테마
+tags: Spring-boot
 categories: JAVA
 ---
 
