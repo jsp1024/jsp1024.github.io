@@ -61,7 +61,10 @@ Controller의 처리가 끝났다면 그 결과를 사용자들이 화면을 통
 attributeValue 값에 내가 원하는 값을 적어 놓으면 반영이 된다.
 
 ***
+<details>
+<summary>출처</summary>
 이 글은 유튜버 홍팍(https://www.youtube.com/c/%ED%99%8D%ED%8C%8D)님의
-스프링 부트, 입문! 강의를 통해 배운 내용들을 작성하였습니다. 
+스프링 부트, 입문! 강의를 통해 배운 내용들을 작성하였습니다.
 
 모든 저작권 권한은 홍팍님 에게 있습니다.
+</details>
