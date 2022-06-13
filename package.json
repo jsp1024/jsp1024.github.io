@@ -5,11 +5,12 @@
   "version": "3.0.0",
   "author": "jaeman <jsp1024k@naver.com>",
   "dependencies": {
+    "@babel/runtime": "^7.18.3",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@mui/icons-material": "^5.1.0",
     "@mui/material": "^5.1.0",
-    "gatsby": "^4.15.1",
+    "gatsby": "^4.16.0",
     "gatsby-plugin-advanced-sitemap": "^2.0.0",
     "gatsby-plugin-google-analytics": "^4.9.0",
     "gatsby-plugin-image": "^2.9.1",
