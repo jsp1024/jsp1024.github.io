@@ -56,6 +56,7 @@ WHERE
   id = 4;        -- 2: id가 4인 대상의
 ```
 ![image02.png](image02.png)
+
 ![image03.png](image03.png)
 
 ## 5. DELETE
